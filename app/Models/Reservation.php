@@ -23,6 +23,11 @@ class Reservation extends Model
         'res_date'
     ];
 
+    protected $casts = [
+        'res_date' => 'datetime',
+      ];
+
+      
     public function table()
     {
         return $this->belongsTo(Table::class);
