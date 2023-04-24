@@ -17,7 +17,7 @@
                                     Step 2</div>
                             </div>
 
-                            <form method="POST" action="{{ route('reservations.store.step.two') }}">
+                            <form method="POST" action="{{ route('reservations.store.step-two') }}">
                                 @csrf
                                 <div class="sm:col-span-6 pt-5">
                                     <label for="status" class="block text-sm font-medium text-gray-700">Table</label>
@@ -38,7 +38,7 @@
                                 </div>
 
                                 <div class="mt-6 p-4 flex justify-between">
-                                    <a href="{{ route('reservations.step.one') }}"
+                                    <a href="{{ route('reservations.step-one') }}"
                                         class="px-4 py-2 bg-indigo-500 hover:bg-indigo-700 rounded-lg text-white">Previous</a>
                                     <button type="submit"
                                         class="px-4 py-2 bg-indigo-500 hover:bg-indigo-700 rounded-lg text-white">Make
