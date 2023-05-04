@@ -14,14 +14,13 @@ Laravel Restaurant Reservation
 
 
 ## General Information
-Laravel Restaurant Reservation using Laravel 
-
+Restaurant Reservation Website using Laravel 
 
 ## Technologies Used
 - PHP   8.1
 - Laravel   10.0
 - Vite  4.0.0
-- Tailwindcss   3.1.0",
+- Tailwindcss   3.1.0
 
 
 
@@ -35,7 +34,9 @@ Laravel Restaurant Reservation using Laravel
 
 
 ## Screenshots
-![laravel Personal website Dashboard screenshot](./public/images/ScreenShots/)
+![Laravel Restaurant Reservation screenshot](./public/images/screenShots/Screenshot%202023-05-04%20at%2000-50-58%20LaraRestaurant.png)
+
+![Laravel Restaurant Reservation screenshot](./public/images/screenShots/Screenshot%202023-05-04%20at%2000-52-13%20LaraRestaurant.png)
 
 
 
