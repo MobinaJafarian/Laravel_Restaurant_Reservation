@@ -43,7 +43,7 @@ Restaurant Reservation Website using Laravel
 
 ![Laravel Restaurant Reservation screenshot](./public/images/screenShots/Screenshot%202023-05-04%20at%2010-08-56%20Resevartion%20LaraRestaurant.png)
 
-[More ScreenShots  ...](https://github.com)
+[More ScreenShots  ...](https://github.com/MobinaJafarian/Laravel_Restaurant_Reservation/blob/master/public/images/screenShots/README.md)
 
 ## Setup
 
