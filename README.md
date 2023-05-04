@@ -36,9 +36,14 @@ Restaurant Reservation Website using Laravel
 ## Screenshots
 ![Laravel Restaurant Reservation screenshot](./public/images/screenShots/Screenshot%202023-05-04%20at%2000-50-58%20LaraRestaurant.png)
 
-![Laravel Restaurant Reservation screenshot](./public/images/screenShots/Screenshot%202023-05-04%20at%2000-52-13%20LaraRestaurant.png)
+![Laravel Restaurant Reservation screenshot](./public/images/screenShots/Screenshot%202023-05-04%20at%2010-16-35%20Menus%20LaraRestaurant.png)
+
+![Laravel Restaurant Reservation screenshot](./public/images/screenShots/Screenshot%202023-05-04%20at%2010-11-07%20step1%20reserv%20LaraRestaurant.png)
 
 
+![Laravel Restaurant Reservation screenshot](./public/images/screenShots/Screenshot%202023-05-04%20at%2010-08-56%20Resevartion%20LaraRestaurant.png)
+
+[More ScreenShots  ...](https://github.com)
 
 ## Setup
 
